@@ -1,0 +1,29 @@
+cpu-bind=MASK - n2cn0169, task  0  0 [1212769]: mask 0xffffffffffffffffffffffffffffffff set
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+starting N 10 trials
+Julia depot located at /scratch/pc2-mitarbeiter/bauerc/.julia_fsbench
+
+real	0m6.185s
+user	0m0.017s
+sys	0m0.019s
+N 10 trial 1 completed
+
+real	0m5.705s
+user	0m0.017s
+sys	0m0.019s
+N 10 trial 2 completed
+
+real	0m5.755s
+user	0m0.012s
+sys	0m0.024s
+N 10 trial 3 completed
+
+real	0m5.727s
+user	0m0.022s
+sys	0m0.014s
+N 10 trial 4 completed
+
+real	0m5.855s
+user	0m0.020s
+sys	0m0.019s
+N 10 trial 5 completed
