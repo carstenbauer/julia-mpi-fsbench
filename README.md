@@ -15,7 +15,7 @@ Heavily inspired by a similar Python benchmark run at NERSC: https://gitlab.com/
 | 1                  | 0m5.255s            | 0m5.713s                      | tbd            |
 | 2                  | 0m5.411s            | 0m6.149s                      | tbd            |
 | 10                 | 0m5.705s            | 0m7.529s                      | tbd            |
-| 100                | tbf                 | tbd                           | tbd            |
+| 100                | 0m11.984s           | 0m18.926s                     | tbd            |
 | 500                | tbd                 | tbd                           | tbd            |
 
 ### IntelMPI
