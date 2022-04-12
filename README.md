@@ -12,9 +12,9 @@ Heavily inspired by a similar Python benchmark run at NERSC: https://gitlab.com/
 
 | Number of nodes    | PC2PFS              | HOME                          | Container      |
 |--------------------|---------------------|-------------------------------|----------------|
-| 1                  | 0m5.255s            | tbd                           | tbd            |
-| 2                  | 0m5.411s            | tbd                           | tbd            |
-| 10                 | 0m5.705s            | tbd                           | tbd            |
+| 1                  | 0m5.255s            | 0m5.713s                      | tbd            |
+| 2                  | 0m5.411s            | 0m6.149s                      | tbd            |
+| 10                 | 0m5.705s            | 0m7.529s                      | tbd            |
 | 100                | tbf                 | tbd                           | tbd            |
 | 500                | tbd                 | tbd                           | tbd            |
 
