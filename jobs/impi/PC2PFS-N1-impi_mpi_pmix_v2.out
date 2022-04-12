@@ -1,0 +1,1953 @@
+cpu-bind=MASK - n2cn0576, task  0  0 [77864]: mask 0xffffffffffffffffffffffffffffffff set
+starting N 1 trials
+Julia depot located at /scratch/pc2-mitarbeiter/bauerc/.julia_fsbench
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+srun: error: n2cn0576: tasks 0-63: Exited with exit code 1
+
+real	0m2.471s
+user	0m0.014s
+sys	0m0.013s
+N 1 trial 1 completed
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+srun: error: n2cn0576: tasks 0-63: Exited with exit code 1
+
+real	0m2.445s
+user	0m0.009s
+sys	0m0.018s
+N 1 trial 2 completed
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+srun: error: n2cn0576: tasks 0-63: Exited with exit code 1
+
+real	0m2.460s
+user	0m0.015s
+sys	0m0.011s
+N 1 trial 3 completed
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+srun: error: n2cn0576: tasks 0-63: Exited with exit code 1
+
+real	0m2.458s
+user	0m0.015s
+sys	0m0.012s
+N 1 trial 4 completed
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+Abort(1090575) on node 0 (rank 0 in comm 0): Fatal error in PMPI_Init_thread: Other MPI error, error stack:
+MPIR_Init_thread(143): 
+MPID_Init(1221)......: 
+MPIR_pmi_init(112)...: 
+(unknown)(): Other MPI error
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+ERROR: LoadError: Attempting to use an MPI routine before initializing MPICH
+srun: error: n2cn0576: tasks 0-63: Exited with exit code 1
+
+real	0m2.456s
+user	0m0.012s
+sys	0m0.015s
+N 1 trial 5 completed

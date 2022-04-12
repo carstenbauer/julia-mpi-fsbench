@@ -16,6 +16,7 @@ export OMP_PROC_BIND=spread
 export OMPI_MCA_hwloc_base_report_bindings=false
 
 export JULIA_DEPOT_PATH=/scratch/pc2-mitarbeiter/bauerc/.julia_fsbench
+export JULIA_MPI_BINARY=system
 
 cd /scratch/pc2-mitarbeiter/bauerc/devel/julia-mpi-fsbench/jobs
 source ../.envrc
