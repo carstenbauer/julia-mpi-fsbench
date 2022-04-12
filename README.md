@@ -8,10 +8,22 @@ Heavily inspired by a similar Python benchmark run at NERSC: https://gitlab.com/
 
 ## Results
 
+### OpenMPI
+
 | Number of nodes    | PC2PFS              | HOME                          | Container      |
 |--------------------|---------------------|-------------------------------|----------------|
 | 1                  | 0m5.255s            | tbd                           | tbd            |
 | 2                  | 0m5.411s            | tbd                           | tbd            |
 | 10                 | 0m5.705s            | tbd                           | tbd            |
 | 100                | tbf                 | tbd                           | tbd            |
+| 500                | tbd                 | tbd                           | tbd            |
+
+### IntelMPI
+
+| Number of nodes    | PC2PFS              | HOME                          | Container      |
+|--------------------|---------------------|-------------------------------|----------------|
+| 1                  | 0m4.198s            | 0m4.614s                      | tbd            |
+| 2                  | 0m4.212s            | 0m4.876s                      | tbd            |
+| 10                 | tbf                 | tbf                           | tbd            |
+| 100                | tbd                 | tbd                           | tbd            |
 | 500                | tbd                 | tbd                           | tbd            |
