@@ -18,7 +18,7 @@ Module: `mpi/OpenMPI/4.1.1-GCC-11.2.0`
 | 2                  | 0m5.411s            | 0m6.149s                      | tbd            |
 | 10                 | 0m5.705s            | 0m7.529s                      | tbd            |
 | 100                | 0m11.984s           | 0m18.926s                     | tbd            |
-| 500                | tbd                 | tbd                           | tbd            |
+| 500                | 0m34.236s           | 2m36.020s                     | tbd            |
 
 ### IntelMPI
 
@@ -30,4 +30,4 @@ Module: `mpi/impi/2021.5.0-intel-compilers-2022.0.1 `
 | 2                  | 0m5.120s            | 0m5.961s                      | tbd            |
 | 10                 | 0m6.927s            | 0m8.362s                      | tbd            |
 | 100                | 0m15.810s           | 0m22.069s                     | tbd            |
-| 500                | tbd                 | tbd                           | tbd            |
+| 500                | 0m23.908s           | 2m18.505s                     | tbd            |
