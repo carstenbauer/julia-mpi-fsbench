@@ -6,6 +6,7 @@ end
 function get_min_time_str(jobfile)
     lines_with_times = filter(startswith("real"), readlines(jobfile))
     time_strs = getindex.(split.(lines_with_times, '\t'), 2)
+    time_strs = time_strs[2:end] # drop first time
 
     tmp = split.(time_strs, 'm')
     minutes = parse.(Float64, getindex.(tmp, 1))

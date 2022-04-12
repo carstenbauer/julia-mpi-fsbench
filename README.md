@@ -10,6 +10,8 @@ Heavily inspired by a similar Python benchmark run at NERSC: https://gitlab.com/
 
 ### OpenMPI
 
+Module: `mpi/OpenMPI/4.1.1-GCC-11.2.0`
+
 | Number of nodes    | PC2PFS              | HOME                          | Container      |
 |--------------------|---------------------|-------------------------------|----------------|
 | 1                  | 0m5.255s            | 0m5.713s                      | tbd            |
@@ -20,10 +22,12 @@ Heavily inspired by a similar Python benchmark run at NERSC: https://gitlab.com/
 
 ### IntelMPI
 
+Module: `mpi/impi/2021.5.0-intel-compilers-2022.0.1 `
+
 | Number of nodes    | PC2PFS              | HOME                          | Container      |
 |--------------------|---------------------|-------------------------------|----------------|
-| 1                  | 0m4.198s            | 0m4.614s                      | tbd            |
-| 2                  | 0m4.212s            | 0m4.876s                      | tbd            |
-| 10                 | tbf                 | tbf                           | tbd            |
-| 100                | tbd                 | tbd                           | tbd            |
+| 1                  | 0m5.077s            | 0m5.659s                      | tbd            |
+| 2                  | 0m5.120s            | 0m5.961s                      | tbd            |
+| 10                 | 0m6.927s            | 0m8.362s                      | tbd            |
+| 100                | 0m15.810s           | 0m22.069s                     | tbd            |
 | 500                | tbd                 | tbd                           | tbd            |
