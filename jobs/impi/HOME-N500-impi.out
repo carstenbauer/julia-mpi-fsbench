@@ -1,0 +1,28 @@
+cpu-bind=MASK - n2cn0214, task  0  0 [74087]: mask 0xffffffffffffffffffffffffffffffff set
+starting N 500 trials
+Julia depot located at /upb/departments/pc2/users/b/bauerc/.julia_fsbench
+
+real	2m28.367s
+user	0m0.102s
+sys	0m0.206s
+N 500 trial 1 completed
+
+real	2m19.832s
+user	0m0.084s
+sys	0m0.229s
+N 500 trial 2 completed
+
+real	2m35.453s
+user	0m0.096s
+sys	0m0.195s
+N 500 trial 3 completed
+
+real	2m18.505s
+user	0m0.097s
+sys	0m0.201s
+N 500 trial 4 completed
+
+real	3m0.546s
+user	0m0.092s
+sys	0m0.191s
+N 500 trial 5 completed
